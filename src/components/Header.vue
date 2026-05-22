@@ -31,9 +31,7 @@ const isLoggedIn = ref(false);
         :color="'black'"
         :size="'small'"
       />
-      
     </div>
-    
   </div>
 
 </template>
